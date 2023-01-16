@@ -4,7 +4,7 @@
 
 ## Bem vindo ao meu perfil do GitHub
 
-Sempre fui muito curioso e me encantei com a simplicidade e objetividade na área da programação. 
+Em uma breve descrição sobre mim, sempre fui muito curioso e me encantei com a simplicidade e objetividade na área da programação. 
 Atualmente faço tecnólogo em Análise e Desenvolvimento de Sitemas e estou em em fase de transição de carreira.
 
 ## Tecnologias familiarizadas
