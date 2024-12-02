@@ -17,13 +17,6 @@ Atualmente em fase de transição de carreira.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="70" height="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70" />
 
-## Projetos
-
-<div>
-<a href="https://github.com/cassiocmm">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiocmm&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassiocmm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 
 ## Contatos
