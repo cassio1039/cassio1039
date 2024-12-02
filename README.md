@@ -6,8 +6,6 @@
 
 Em uma breve descrição sobre mim, sempre fui muito curioso e me encantei com a simplicidade e objetividade na área da programação. 
 Atualmente em fase de transição de carreira.
-### Experiências
-* Atualmente participo do projeto Desenvolve da Boticário
 
 ## Tecnologias familiarizadas
 
