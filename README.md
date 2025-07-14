@@ -4,8 +4,7 @@
 
 ## Bem vindo ao meu perfil do GitHub
 
-Em uma breve descrição sobre mim, sempre fui muito curioso e me encantei com a simplicidade e objetividade na área da programação. 
-Atualmente em fase de transição de carreira.
+Em uma breve descrição sobre mim, sempre fui muito curioso e me interessei com a simplicidade e objetividade na área da programação. 
 
 ## Tecnologias familiarizadas
 
