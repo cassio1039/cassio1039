@@ -2,7 +2,9 @@
 
 # Olá, meu nome é Cássio!
 
-Em uma breve descrição sobre mim, sempre fui muito curioso e me interessei com a simplicidade e objetividade na área da programação. 
+Em uma breve descrição sobre mim, sempre fui muito curioso e me interessei com a simplicidade e objetividade na área da programação.
+
+Atualmente em transição de carreira para a área de tecnologia. Atuo como motorista de aplicativo, o que me ensinou muito sobre disciplina, autonomia e foco em resultados — habilidades que levo comigo em tudo o que faço. Tenho estudado de forma autodidata.
 
 ## Tecnologias familiarizadas
 
