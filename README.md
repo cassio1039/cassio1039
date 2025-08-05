@@ -4,7 +4,9 @@
 
 Em uma breve descrição sobre mim, sempre fui muito curioso e me interessei com a simplicidade e objetividade na área da programação.
 
-Atualmente em transição de carreira para a área de tecnologia. Atuo como motorista de aplicativo, o que me ensinou muito sobre disciplina, autonomia e foco em resultados — habilidades que levo comigo em tudo o que faço. Tenho estudado de forma autodidata.
+Atualmente em transição de carreira para a área de tecnologia. Atuo como motorista de aplicativo, o que me ensinou muito sobre disciplina, autonomia e foco em resultados — habilidades que levo comigo em tudo o que faço.
+
+Aqui é um espaço onde guardo meus repositórios de estudos para aperfeiçoamento profissional...
 
 ## Tecnologias familiarizadas
 
